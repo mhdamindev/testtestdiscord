@@ -1,0 +1,60 @@
+{
+    "create" :     {
+        "title": "Project registration | ثبت پروژه",
+        "description": "سلام دوست عزیز امیدوارم که حالت خوب باشه برای ثبت و درخواست پروژه \nفرم زیر رو پر کن و درخواستت رو به صورت کامل توضیح بده تا فریلنسر مورد\nنظرت پیدا بشه و کارت رو به اتمام برسونه \nHello, dear friend, I hope you are in good condition to register and apply for the project\nFill out the form below and explain your request in full to the freelancer\nFind your opinion and complete the card",
+        "color": 5814783,
+        "author": {
+          "name": "Discolancer",
+          "icon_url": "https://images-ext-1.discordapp.net/external/rLzsiRA_YJRyi7N5v8mHDxrUImLq1BpCF9GJSjeix2Q/%3Fsize%3D1024/https/cdn.discordapp.com/icons/770540732900966420/a_5e92922c5b7302feeba324bf1fd5f94b.gif?width=120&height=120"
+        },
+        "footer": {
+            "text": "Hydev Team",
+            "icon_url": "https://cdn.discordapp.com/attachments/908603770223603752/1073148396191371314/bb7b678d97f589e2bd3d83d45ed683fb.png"
+          }
+      },
+      "admins" :  {
+        "description": "Username : $username \n\nProject registration time : $date",
+        "color": 16578816
+      },
+      "admins2" :     {
+        "title": "New Project | پروژه جدید",
+        "description": "موضوع پروژه : $Title \n\nتوضیحات پروژه : $Des",
+        "color": 5814783,
+        "author": {
+          "name": "Discolancer",
+          "icon_url": "https://images-ext-1.discordapp.net/external/rLzsiRA_YJRyi7N5v8mHDxrUImLq1BpCF9GJSjeix2Q/%3Fsize%3D1024/https/cdn.discordapp.com/icons/770540732900966420/a_5e92922c5b7302feeba324bf1fd5f94b.gif?width=120&height=120"
+        }
+      },
+      "reject" :     {
+        "title": "موضوع پروژه",
+        "description": "پروژه شما توسط ادمین $adminTag  رد شد\nدلیل : $reason\nبا تشکر از شما دوست عزیز\n\nتیم دیسکولنسر",
+        "color": 5814783,
+        "author": {
+          "name": "Discolancer",
+          "icon_url": "https://images-ext-1.discordapp.net/external/rLzsiRA_YJRyi7N5v8mHDxrUImLq1BpCF9GJSjeix2Q/%3Fsize%3D1024/https/cdn.discordapp.com/icons/770540732900966420/a_5e92922c5b7302feeba324bf1fd5f94b.gif?width=120&height=120"
+        },
+        "image": {
+          "url": "https://media.discordapp.net/attachments/1060984933281185822/1070290043660410910/dl-banner.jpg?width=1055&height=593"
+        }
+      },
+      "accept" :    {
+        "title": "موضوع پروژه",
+        "description": "پروژه شما توسط ادمین $adminTag تایید شد\nبا تشکر از شما دوست عزیز\n\nتیم دیسکولنسر",
+        "color": 5814783,
+        "author": {
+          "name": "Discolancer",
+          "icon_url": "https://images-ext-1.discordapp.net/external/rLzsiRA_YJRyi7N5v8mHDxrUImLq1BpCF9GJSjeix2Q/%3Fsize%3D1024/https/cdn.discordapp.com/icons/770540732900966420/a_5e92922c5b7302feeba324bf1fd5f94b.gif?width=120&height=120"
+        },
+        "image": {
+          "url": "https://media.discordapp.net/attachments/1060984933281185822/1070290043660410910/dl-banner.jpg?width=1055&height=593"
+        }
+      },
+      "after_accpet" :        {
+        "title": "موضوع : $PrTitle",
+        "description": "> **توضیحات**\n\n> $PrDes <:ezgif1aec565c536:1073325136855433336>\n\n> جهت همکاری به روی دکمه پایین کلیک کنید <a:zang:1073323892988448891>",
+        "color": 5793266,
+        "image": {
+          "url": "https://cdn.discordapp.com/attachments/978724974997164102/1082972523626508308/dl-banner.jpg"
+        }
+      }
+}
